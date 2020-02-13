@@ -64,7 +64,7 @@
  		<h2 class="header"> Postion absolute </h2>
   	<p5 class="text"> An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed).However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling. </p5>
 <div class="container5">
- 		<h2 class="header"> Postion Stikcy </h2>
+ 		<h2 class="header"> Postion Sticky </h2>
   	<p6 class="text"> An element with position: sticky; is positioned based on the user's scroll position.A sticky element toggles between relative and fixed, depending on the scroll position. It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed)</p6>
 <div class="container6">
  		<h3 class="header"> Photos explaining the postions above </h3>
